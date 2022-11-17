@@ -1,0 +1,4 @@
+Processing command-line options:
+Use the standard C option-processing function getopt, or the enhanced GNU version of the same function, getopt_long (permits GNU-style long options ex: --quiet, instead of -q).
+The best option is to use argp interface for processing options.
+Using argp provides the user with standard and useful options.

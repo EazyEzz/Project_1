@@ -1,0 +1,19 @@
+Worker Child Pthread Number = 1:	Root of the Sum of Squares = 18178.769018	Geometric Average = 496.105000	Arithmetic Average = 361.698169
+Worker Child Pthread Number = 2:	Root of the Sum of Squares = 18387.513644	Geometric Average = 499.976000	Arithmetic Average = 365.634093
+Worker Child Pthread Number = 3:	Root of the Sum of Squares = 17799.106523	Geometric Average = 487.169000	Arithmetic Average = 363.718781
+Worker Child Pthread Number = 4:	Root of the Sum of Squares = 17657.084442	Geometric Average = 478.513000	Arithmetic Average = 345.553036
+Worker Child Pthread Number = 5:	Root of the Sum of Squares = 18198.769272	Geometric Average = 498.495000	Arithmetic Average = 369.242022
+Worker Child Pthread Number = 6:	Root of the Sum of Squares = 17654.790115	Geometric Average = 477.500000	Arithmetic Average = 338.945257
+Worker Child Pthread Number = 7:	Root of the Sum of Squares = 18878.516467	Geometric Average = 524.164000	Arithmetic Average = 392.395693
+Worker Child Pthread Number = 8:	Root of the Sum of Squares = 18190.392519	Geometric Average = 496.816000	Arithmetic Average = 362.051506
+Worker Child Pthread Number = 9:	Root of the Sum of Squares = 18187.027162	Geometric Average = 502.745000	Arithmetic Average = 378.470326
+Worker Child Pthread Number = 10:	Root of the Sum of Squares = 18153.343824	Geometric Average = 497.880000	Arithmetic Average = 372.717900
+Worker Child Pthread Number = 11:	Root of the Sum of Squares = 18429.984102	Geometric Average = 504.406000	Arithmetic Average = 367.494874
+Worker Child Pthread Number = 12:	Root of the Sum of Squares = 18435.678642	Geometric Average = 508.233000	Arithmetic Average = 376.736197
+Worker Child Pthread Number = 13:	Root of the Sum of Squares = 18396.337815	Geometric Average = 502.669000	Arithmetic Average = 358.611453
+Worker Child Pthread Number = 14:	Root of the Sum of Squares = 18128.748523	Geometric Average = 497.577000	Arithmetic Average = 366.618349
+
+Main Program Thread: Min of the Root of the Sum of the Squares = 17657.084442
+Main Program Thread: Min of the Geometric Averages = 345.553036
+Main Program Thread: Min of the Arithmetic Averages = 361.698169
+TERMINATING.
